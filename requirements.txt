@@ -1,0 +1,10 @@
+ipython==6.0
+tornado==4.3
+ipykernel==4.9.0 
+jupyter==1.0.0
+numpy==1.14.1
+scipy==1.1.0
+matplotlib==2.2.2
+pandas==0.22.0
+scikit-learn==0.19.2
+requests=2.19.1
