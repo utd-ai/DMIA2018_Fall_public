@@ -12,3 +12,4 @@ graphviz==0.10.1
 pydotplus==2.0.2
 xgboost==0.81
 catboost==0.11.0
+lightgbm==2.2.2
