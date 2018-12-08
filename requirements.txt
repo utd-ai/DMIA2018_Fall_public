@@ -13,3 +13,13 @@ pydotplus==2.0.2
 xgboost==0.81
 catboost==0.11.0
 lightgbm==2.2.2
+gensim==3.6.0
+nltk==3.4
+opencorpora-tools==0.5
+pymorphy2==0.8
+seaborn==0.9.0
+scikit-image-0.14.1
+tensorflow==1.12.0
+keras==2.2.4
+tqdm==4.28.1
+pydot==1.4.0
